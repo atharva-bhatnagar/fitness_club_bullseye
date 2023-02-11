@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/atharva-bhatnagar/fitness_club_bullseye/static/css/main.cf9e5949.css",
+    "main.js": "/atharva-bhatnagar/fitness_club_bullseye/static/js/main.9cbf3425.js",
+    "static/media/background.jpg": "/atharva-bhatnagar/fitness_club_bullseye/static/media/background.67ef7a2622b744ecdaba.jpg",
+    "index.html": "/atharva-bhatnagar/fitness_club_bullseye/index.html",
+    "main.cf9e5949.css.map": "/atharva-bhatnagar/fitness_club_bullseye/static/css/main.cf9e5949.css.map",
+    "main.9cbf3425.js.map": "/atharva-bhatnagar/fitness_club_bullseye/static/js/main.9cbf3425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf9e5949.css",
+    "static/js/main.9cbf3425.js"
+  ]
+}
